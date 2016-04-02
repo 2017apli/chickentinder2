@@ -8,8 +8,13 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.util.Log;
+import android.content.Intent;
 
 public class MainActivity extends AppCompatActivity {
+    Button chickenButton, settingButton, dnutsButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,15 +22,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
+        Log.i("MainActivity", "ON CREATE METHOD .");
+        this.initializeWidgets();
+        this.setButtonListeners();
     }
 
     @Override
@@ -48,5 +47,49 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public void initializeWidgets() {
+        Log.i("MainActivity", "WIDGETS ARE INITIALIZED.");
+        this.chickenButton = (Button) this.findViewById(R.id.button);
+        this.dnutsButton = (Button) this.findViewById(R.id.button2);
+        this.settingButton = (Button) this.findViewById(R.id.button3);
+    }
+
+
+    private void setButtonListeners() {
+        this.chickenButton.setOnClickListener(new OnClickListener() {
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ChickenMapsActivity.class);
+                Log.i("MainActivity", "Chicken button is pressed.");
+                MainActivity.this.startActivity(intent);
+                Log.i("MainActivity", "chickenButton Listener works, moving to ChickenMapActivity");
+            }
+        });
+        Log.i("MainActivity", "chicken button listener set");
+
+        this.dnutsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ChickenMapsActivity.class);
+                Log.i("MainActivity", "Chicken button is pressed.");
+                MainActivity.this.startActivity(intent);
+                Log.i("MainActivity", "chickenButton Listener works, moving to ChickenMapActivity");
+
+
+            }
+        });
+
+        this.settingButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ChickenMapsActivity.class);
+                Log.i("MainActivity", "Chicken button is pressed.");
+                MainActivity.this.startActivity(intent);
+                Log.i("MainActivity", "chickenButton Listener works, moving to ChickenMapActivity");
+            }
+        });
+
+
     }
 }
