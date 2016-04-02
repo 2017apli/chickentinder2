@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_8587737d1eb96d21691d0f0930af1939ca6b45cf.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_1499719abb409b80d498926ec8231cec7aa8e67e.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_5391d0f23ff693f46fc0065757c75cb86051bce9.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_7c63a56679f071a6e17e5e607fcf3fd6b3f896ad.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_acb764fa98f3ccddccfa69f249c7966393cc3991.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_0fd245329b25e543f516b4b3cbb5cd00e2c592da.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_f1e24b7223fd215c8757d7ae23bd5937c918c961.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_b77d8c34369227af8535af6d781f56e33ddef0a3.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_d13c13c23b0393b45fde5755a1b5cc93bd52849c.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_4d19ff2b7305051f8634b6c182ad963782b7a625.jar" />
+    </item>
+    <item
+        jar="/Users/annali/Documents/College/Summer2015/SoftwareDevelopment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_e68c0dc11d16368aa3d22cbc45b62213af8e25da.jar" />
+    </item>
+
+</items>
