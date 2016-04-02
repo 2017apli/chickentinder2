@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void setButtonListeners() {
+
         this.chickenButton.setOnClickListener(new OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, ChickenMapsActivity.class);

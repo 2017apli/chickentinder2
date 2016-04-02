@@ -2,25 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_acb764fa98f3ccddccfa69f249c7966393cc3991.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_e5bd10dad0dd6284d83ea7f072ffd92c67d9473c.jar" />
-    </item>
-    <item
-        jar="/Users/annali/Documents/College/Summer2015/SoftwareDevelopment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_e68c0dc11d16368aa3d22cbc45b62213af8e25da.jar" />
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_1499719abb409b80d498926ec8231cec7aa8e67e.jar" />
     </item>
     <item
         jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
@@ -30,11 +16,11 @@
         <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_4fd5c2713b03964d196d18646bb190121afa1112.jar" />
     </item>
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_b77d8c34369227af8535af6d781f56e33ddef0a3.jar" />
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_c6efc4edd33f0a2ce40b9a2a6fa5bada7904db08.jar" />
     </item>
     <item
         jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
@@ -44,125 +30,6 @@
         <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_27904c8b6921cdff3d5d4124c6a65140eb2a1900.jar" />
     </item>
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_3f208cea829df1a3929378feeea4c72302764c8a.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_483e9b2bbf4457994f06cd0987f7636fa50e64fb.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_7c63a56679f071a6e17e5e607fcf3fd6b3f896ad.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_be136fc4266e29afb232199061872e6d916852c4.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_0a8813343b182040f306b4a5d810388a07df3ec2.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_9ac7e2f5f9fbd193f8f3b8f8ebeee9f9bbb40922.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_c6efc4edd33f0a2ce40b9a2a6fa5bada7904db08.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_fe3e8be07a569dd79ea8b8268fa35197248dbc52.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_bb9ce305702619016d2e9f66bd245a38f888f128.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_3aa082b89977ded258b8bce0219556d08df6a2b5.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_81731c9f47efafc10cf0c9061890c0cafd4f1ba3.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_4d19ff2b7305051f8634b6c182ad963782b7a625.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_5391d0f23ff693f46fc0065757c75cb86051bce9.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_0fd245329b25e543f516b4b3cbb5cd00e2c592da.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_d13c13c23b0393b45fde5755a1b5cc93bd52849c.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_fefd11cb0ca7b333d52073bb5067beb4f3b529d1.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_c5d7bcb38f5ca55872ab7aae5a28bf9a8a9f4e07.jar" />
-    </item>
-    <item
         jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
@@ -170,32 +37,18 @@
         <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_f1e24b7223fd215c8757d7ae23bd5937c918c961.jar" />
     </item>
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_2ece80ebcb538a95ddda514f93231c0b0131212f.jar" />
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_8587737d1eb96d21691d0f0930af1939ca6b45cf.jar" />
     </item>
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jar="/Users/annali/Documents/College/Summer2015/SoftwareDevelopment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_018f151145c29d7b576111a70921a466e0d02754.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_290a65ddf6255134da57faa07e410d54e987a1f4.jar" />
-    </item>
-    <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_b854384e784706c22324791a375aab8e1c74ddf9.jar" />
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_e68c0dc11d16368aa3d22cbc45b62213af8e25da.jar" />
     </item>
     <item
         jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
@@ -212,18 +65,60 @@
         <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_0c259c7e60701e27b8c4a2a7d25ebe0eccf1d16e.jar" />
     </item>
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_8587737d1eb96d21691d0f0930af1939ca6b45cf.jar" />
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_fefd11cb0ca7b333d52073bb5067beb4f3b529d1.jar" />
     </item>
     <item
-        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_1499719abb409b80d498926ec8231cec7aa8e67e.jar" />
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_c5d7bcb38f5ca55872ab7aae5a28bf9a8a9f4e07.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_bb9ce305702619016d2e9f66bd245a38f888f128.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_acb764fa98f3ccddccfa69f249c7966393cc3991.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_e5bd10dad0dd6284d83ea7f072ffd92c67d9473c.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_4d19ff2b7305051f8634b6c182ad963782b7a625.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_3aa082b89977ded258b8bce0219556d08df6a2b5.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_81731c9f47efafc10cf0c9061890c0cafd4f1ba3.jar" />
     </item>
     <item
         jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
@@ -231,6 +126,111 @@
         revision="23.0.3"
         sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
         <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_9acbba7ec37054ed2e350631f17af5e118c2e7b7.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_290a65ddf6255134da57faa07e410d54e987a1f4.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_3f208cea829df1a3929378feeea4c72302764c8a.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_9ac7e2f5f9fbd193f8f3b8f8ebeee9f9bbb40922.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_018f151145c29d7b576111a70921a466e0d02754.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_7c63a56679f071a6e17e5e607fcf3fd6b3f896ad.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_b854384e784706c22324791a375aab8e1c74ddf9.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_fe3e8be07a569dd79ea8b8268fa35197248dbc52.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_2ece80ebcb538a95ddda514f93231c0b0131212f.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_5391d0f23ff693f46fc0065757c75cb86051bce9.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_0a8813343b182040f306b4a5d810388a07df3ec2.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_0fd245329b25e543f516b4b3cbb5cd00e2c592da.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_d13c13c23b0393b45fde5755a1b5cc93bd52849c.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_483e9b2bbf4457994f06cd0987f7636fa50e64fb.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_be136fc4266e29afb232199061872e6d916852c4.jar" />
+    </item>
+    <item
+        jar="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/annali/AndroidStudioProjects/chickentinder2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_b77d8c34369227af8535af6d781f56e33ddef0a3.jar" />
     </item>
 
 </items>

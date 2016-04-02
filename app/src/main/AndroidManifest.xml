@@ -37,7 +37,8 @@
 
         <activity
             android:name=".ChickenMapsActivity"
-            android:label="@string/title_activity_chicken_maps">
+            android:label="@string/title_activity_chicken_maps"
+            android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="net.chickentinder.chickentinder2.MainActivity" />
